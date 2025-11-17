@@ -1,0 +1,77 @@
+
+        body{font-family: Verdana;}
+#contenido{
+    background-image:url(../img/fondo.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 450px 350px;
+    background-color: rgb(250, 250, 250);
+    padding: 10px;
+    border: solid 3px blue;
+    margin-left: 25%;
+    margin-right: 25%;
+    
+    
+}
+
+#menu{
+    color: blue;
+    background-color: aqua;
+    border: solid 3px blue;
+    border-color: blue;
+    text-align: center;
+    padding: 5px;
+}
+#titulo{
+    color: blue;
+    background-color: aqua;
+    border: solid 3px;
+    border-color: blue;
+    text-align: center;
+    padding: 5px;
+}
+#componentes{
+    color: blue;
+    background-color: aqua;
+    border:solid 3px;
+    border-color: blue;
+    padding: 5px;
+}
+#funcioanmiento{
+    color: blue;
+    background-color: aqua;
+    border:solid 3px;
+    border-color: blue;
+    padding: 5px;
+}
+#datos{
+     color: blue;
+    background-color: aqua;
+    border:solid 3px;
+    border-color: blue;
+}
+table{
+    tr{
+        border : solid 2px blue;
+        caption-side: bottom;
+    }
+    border :solid 2px blue;
+    caption-side: bottom;
+    border-width: 2px;
+}
+
+#areas{
+    color: blue;
+    background-color: aqua;
+    border:solid 3px;
+    border-color: blue;
+}
+#lista{
+    li:first-child { color: rgb(32, 10, 233); }
+    li:last-child { color: blue; }
+    li::first-letter { text-transform: uppercase; }
+        
+}
+#autor{
+    text-align: center;
+}
